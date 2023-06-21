@@ -36,6 +36,10 @@ nav h1{
 height: 115px;
 }
 
+#Logo:hover{
+  transform: scale(1.05);
+}
+
 .Element{
   display: flex;
   flex-direction: row;
